@@ -18,6 +18,10 @@
   width: 180px;
 }
 
+.checkoutProduct__image:hover {
+  transform: scale(1.03);
+}
+
 .checkoutProduct__title {
   font-size: 17px;
   font-weight: 800;
